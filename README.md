@@ -55,7 +55,16 @@ src/
 ## Instrucciones
 
 - Deberá instalar Rust en su computador. Siga las instrucciones en la [página oficial](https://www.rust-lang.org/en-US/install.html)
+
 - Para ejecutar los tests corra `cargo test` desde el directorio raíz
+
 - Para realizar la entrega, realice un `fork` del repositorio y agregue a `rcastill` como contribuidor de su repositorio.
-- Ante cualquier consulta mande tantos correos como sea necesario a [rodolfocastillomateluna@gmail.com](mailto:rodolfocastillomateluna@gmail.com)
+
+- Ante cualquier consulta utilice issues en este repositorio. No dude en preguntar sobre sintáxis o características inherentes del lenguaje. Incluso puede preguntar por qué algo no está funcionando en su código (luego de que haya intentado una cantidad de tiempo considerable).
+
+- Como método secundario de comunicación, mande un correo electrónico a [rodolfocastillomateluna@gmail.com](mailto:rodolfocastillomateluna@gmail.com).
+
+  *Disclaimer: se prefiere el uso de issues para que todos se puedan beneficiar de las dudas que aparezcan.*
+
 - **Fecha límite:** 15 de Diciembre de 2017 hasta las 23:55.
+
