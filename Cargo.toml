@@ -1,0 +1,6 @@
+[package]
+name = "tarea2-gorust"
+version = "0.1.0"
+authors = ["Rodolfo Castillo Mateluna <rodolfocastillomateluna@gmail.com>"]
+
+[dependencies]
