@@ -12,10 +12,10 @@ Un ejemplo conceptual (trabajando sólo con tuplas):
 ((42, 10), nil, nil)
 
 # si ahora ingresamos el par (11, 32), se agregará como hijo izquierdo de la raíz, ya que la llave es menor que la del padre: 11 < 42
-((42, 10), ((11, 32), nil, nil), nil, nil)
+((42, 10), ((11, 32), nil, nil), nil)
 
 # si agregamos el par (14, 9), se agregará como hijo derecho del segundo nodo, ya que: 14 < 42, pero 14 > 11
-((42, 10), ((11, 32), nil, ((14, 9), nil, nil)), nil, nil)
+((42, 10), ((11, 32), nil, ((14, 9), nil, nil)), nil)
 ```
 
 Este debe ser el comportamiento de su algoritmo, de esta manera acortará el tiempo de búsqueda de un nodo (búsqueda binaria). El proceso se optimiza más aún si se balancea el árbol, pero no es un objetivo de la tarea.
